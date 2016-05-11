@@ -1,5 +1,6 @@
 <form class="col-md-4" action="?seccio=contacte" method="post" enctype="multipart/form-data">
 
+<h1>Pagina de contacte</h1>
     <h2>Formulari de Contacte</h2>
     <div class="form-group">
         <div class="input-group">
